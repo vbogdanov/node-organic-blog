@@ -1,0 +1,9 @@
+{
+  "holes":[
+    "/holes/httpServer"
+  ],
+  "organelles": [
+    "/organelles/router",
+    "/organelles/page"
+  ]
+}
